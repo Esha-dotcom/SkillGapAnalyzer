@@ -1,2 +1,3 @@
 # SkillGapAnalyzer
-A Python-based web application that analyzes resumes and job descriptions to identify skill gaps, calculate match percentage, and help candidates improve job readiness.
+
+A web application that compares resumes with job descriptions and identifies matching skills, missing skills, and overall match percentage.

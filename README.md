@@ -101,7 +101,7 @@ streamlit run app.py
 ## Future Scope
 
 * Integration of advanced NLP models
-* Real-time job data integration through APIs
+* Real-time job data integration
 * Resume improvement suggestions
 * Deployment on cloud platforms
 

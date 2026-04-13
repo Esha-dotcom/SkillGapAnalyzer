@@ -1,0 +1,22 @@
+Arjun Nair
+Python Developer
+Email: arjun.nair@email.com | Phone: +91 98765 43210 | Location: Kerala, India
+Professional Summary
+
+Motivated Python developer with experience in data analysis, machine learning, and web development.
+Skilled in building data-driven applications and automating workflows using Python.
+
+Skills
+•	Python
+•	SQL
+•	HTML
+•	CSS
+•	Machine Learning
+•	Data Analysis
+•	Excel
+Experience
+•	Developed data analysis scripts using Python and Pandas.
+•	Built web interfaces for internal tools using Streamlit.
+•	Collaborated with team members to improve data pipelines.
+Education
+•	B.Tech in Computer Science – ABC Institute of Technology (2021–2025)

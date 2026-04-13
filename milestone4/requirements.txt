@@ -1,0 +1,10 @@
+streamlit
+spacy
+PyPDF2
+docx2txt
+python-docx
+pandas
+scikit-learn
+requests
+beautifulsoup4
+plotly

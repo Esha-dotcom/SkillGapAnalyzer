@@ -1,0 +1,20 @@
+Python Developer – Job Description
+TechNova Solutions Pvt Ltd
+About the Role
+
+TechNova Solutions is looking for a motivated Python Developer to join our development team.
+The candidate will work on building data-driven applications, automation tools, and analytics solutions.
+
+Key Responsibilities
+•	Develop and maintain applications using Python.
+•	Write SQL queries for database operations.
+•	Work with data analysis tools and libraries.
+•	Collaborate with cross‑functional teams to design solutions.
+•	Build dashboards and reports using tools like Excel or Power BI.
+Required Skills
+•	Python
+•	SQL
+•	Machine Learning
+•	Data Analysis
+•	Excel
+•	Communication

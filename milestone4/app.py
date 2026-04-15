@@ -350,4 +350,4 @@ if analyze_btn:
 
 # Footer
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #888;'>SkillGapAI © 2026 | Powered by AI</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #888;'>SkillGapAI © 2026</div>", unsafe_allow_html=True)
